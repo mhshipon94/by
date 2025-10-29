@@ -1,0 +1,40 @@
+
+body{
+    
+    text-align: center;
+    font-family: "Space Grotesk", sans-serif;
+    font-weight: bold;
+    margin: 0;
+}
+
+.ha{
+    color:#bf936a ;
+}
+
+.btn1{
+    font-family: inherit;
+    font-weight: bold;
+    font-size: 20px;
+    padding: 8px 8px;
+    border: none;
+    background: #F6E7CB;
+}
+
+#spa{
+    margin: 0 auto;
+    background-image: url("/Space/image12/space\ sun\ GIF.gif");
+    background-size: cover;
+     background-repeat: no-repeat;
+     padding: 10px 0 30px 0;
+
+}
+.underline{
+    border-bottom: 1px solid white;
+}
+.l{
+    color:#bf936a;
+    font-weight: bold;
+    font-size: 20px;
+
+    margin-top: 8px;
+}
